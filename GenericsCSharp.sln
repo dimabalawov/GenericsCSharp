@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oceanarium", "GenericsCSharp\Oceanarium.csproj", "{96E23D58-BE2D-4F9E-8967-2D2BF5ADD5C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootbalTeam", "FootbalTeam\FootbalTeam.csproj", "{0D75D2A0-42FB-4048-B640-5B8C195E7E1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cafe", "Cafe\Cafe.csproj", "{67AA685F-BA2D-4D03-8697-2F59A1267794}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96E23D58-BE2D-4F9E-8967-2D2BF5ADD5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E23D58-BE2D-4F9E-8967-2D2BF5ADD5C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E23D58-BE2D-4F9E-8967-2D2BF5ADD5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E23D58-BE2D-4F9E-8967-2D2BF5ADD5C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D75D2A0-42FB-4048-B640-5B8C195E7E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D75D2A0-42FB-4048-B640-5B8C195E7E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D75D2A0-42FB-4048-B640-5B8C195E7E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D75D2A0-42FB-4048-B640-5B8C195E7E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67AA685F-BA2D-4D03-8697-2F59A1267794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67AA685F-BA2D-4D03-8697-2F59A1267794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67AA685F-BA2D-4D03-8697-2F59A1267794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67AA685F-BA2D-4D03-8697-2F59A1267794}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92F4E14E-C965-48CB-8EFE-B84F5248766E}
+	EndGlobalSection
+EndGlobal
